@@ -164,7 +164,7 @@ export default function Page() {
           </div>
 
           <span className="inline-block px-3 py-0.5 bg-brand-gold text-brand-dark text-xs font-bold rounded-full mb-2 tracking-wide">
-            فرع الإسكندرية
+            الإسكندرية
           </span>
           <h1 className="font-serif text-3xl md:text-5xl font-bold text-brand-gold mb-3 tracking-wide leading-snug text-balance">
             نادي ودار البنك الأهلي المصري
@@ -398,7 +398,7 @@ export default function Page() {
           <div className="w-10 h-10 mx-auto rounded-full bg-brand-gold/10 border border-brand-gold flex items-center justify-center text-brand-gold">
             <Landmark className="w-5 h-5" />
           </div>
-          <p className="font-bold text-sm text-brand-gold">نادي ودار البنك الأهلي المصري - فرع الإسكندرية</p>
+          <p className="font-bold text-sm text-brand-gold">نادي ودار البنك الأهلي المصري - الإسكندرية</p>
           <p className="text-emerald-200/80">
             جميع الأسعار بالجنيه المصري (ج.م) وتخضع للسياسات والشروط المعتمدة من النادي.
           </p>
